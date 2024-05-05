@@ -1,38 +1,35 @@
 # General
-### Q: How do I set this up?
-A:it says how to do so in [main page](https://github.com/youngerelk1/RSDK-GDT)
+### P: Como configuro esto?
+R: Los pasos estan en [la pagina principal](https://github.com/SM2010Ficial/RSDK-GDT)
 
-### Q: The screen is tearing, how do I fix it?
-A: Try turning on VSync in settings.ini.
+### P: La pantalla se ve rara, ¿Como lo arreglo?
+R: Intenta activar la Sincronizacion Vertical (VSync) en settings.ini.
 
-### Q: Its Crashes when i load it in mobile!
-A: Oh yes that... theres a issue with the mobile of V4 that keeps loading the HW menus, something GDT doesnt have, instead you have to use [RSDK VT](https://github.com/Sonic-Geared/RSDK-VT)
-Our own Version of RSDK made for fan games that fixes the issue.
+### P: Crashea cuando intento jugarlo en el telefono!
+R: Ah si eso... veras hay un problema con la V4 en telefonos el cual hace que se sigan cargando los menos HW, Por mala suerte GDT no tiene esas cosas. En vez intenta usar [RSDK VT](https://github.com/Sonic-Geared/RSDK-VT), Es lo mismo pero que arregla ese error.
 
-### Q: Why is there no Sound effects and the Music in a lower pitch? (V5U)
-A:You are using V1.0 this is fixed in V1.1. (not V1.0.1)
+### P: Porque no hay sonidos y la musica esta en un tono mas bajo? (V5U)
+R:Estas usando la V1.0. Esto ya se arreglo en la V1.1. (no confundir con la V1.0.1)
 
-### Q: The game crashes when trying to load the main menu or pause screen, what's wrong?
-A: once again, use the build in [Releases](https://github.com/youngerelk1/RSDK-GDT/releases) if it happens in the release version then im not sure...
+### P: El juego crashea cuando intento entrar al menu o al intentar pausar, ¿Que paso ahi?
+R: Otra vez, usa la build que esta en [Releases](https://github.com/SM2010Ficial/RSDK-GDT/releases) en tal caso de que eso suceda ahi bueno... ahi si no se
 
-### Q: am i allowed to Fork/make mods or Use code from GDT for my own Projects?
-A: Yes, you can make extentions for GDT to add more to the framework
-you can also you any part of the project in your own Non-GDT projects.
-We dont mind, We just want credit. 
+### P: Puedo hacer una difurcacion/hacer mods o usar codigo de GDT para mis proyectos?
+A: Si, Puedes hacerlo para por ejemplo añadir mas caracteristicas o para usarlo en otros proyectos que no usen GDT.
+Eso si dale creditos al equipo original. 
 
-~~### Q: Why is it one Zone?~~
-~~A: This is a Framework, Not a game, we made the zones as a quick tech demo.~~
-This is now outdated, we added a new zone in.
+~~### P: Porque solo hay 1 zona?~~
+~~R: Esto es un motor de juegos, No un juego, hicimos la zona como una demo tecnica.~~
+Esto esta desactualizado, Ya añadimos otra zona.
 
-### Q: Does it work on Mobile
-A: yes. but if your using V4 use [RSDK VT](https://github.com/Sonic-Geared/RSDK-VT)
-Instead. 
+### P: Esto funciona en telefonos
+R: si. pero si estas usando la V4. mejor usa [RSDK VT](https://github.com/Sonic-Geared/RSDK-VT). 
 
-### Q: Why use RSDK as a Game Engine?
-A: RSDK Original Purpose was For Fan games, We wanted to Show that it Can be used for more than just mods or just playing existing games.
+### P: ¿Porque usar el RSDK como un Motor de Juegos?
+R: El proposito original del RSDK era para hacer Fan games, esto se puede demostrar con fangames como [Sonic Nexus](https://info.sonicretro.org/Sonic_Nexus) o [Retro Sonic](https://info.sonicretro.org/Retro_Sonic). teniendo eso en cuenta quisimos mostrar que el RSDK servia para mas cosas que no fueran jugar juegos ya existentes o para mods.
 
-### Q: does it work on V3 or non-U V5- 
-A: Stop, We are not making GDT for those, im sorry but for those on your own. 
+### P: Esto funciona para la V3 o para las verciones no U de la V5- 
+R: NO NO Y POR ULTIMO NO, Dejen de molestarnos con eso. No vamos a hacer un port para esas verciones. ya queda en tus manos si haces eso. 
 
-### Q: Why is the level so bland?
-A: First Off, that was a Tech demo we made within **5 weeks** we are planning to improve it in 2.0 (and if its out by now its already fixed) its ***not*** a Excuse to think badly of the framework, *cough* SSRG *cough*
+### P: ¿Porque el nivel es tan plano?
+R: Hay que tomar en cuenta que esto es un nivel hecho en **5 semanas** el cual funciona como demo tecnica. Estamos planeando Mejorar el diseño del nivel en la 2.0 (y en tal caso ya haya salido ya se debio haber arreglado). Aun asi esto ***not*** es una excusa para pensar que el motor es malo, *ejem* *ejem* SSRG *ejem* *ejem*
