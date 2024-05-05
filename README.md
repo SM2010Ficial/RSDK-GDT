@@ -39,7 +39,7 @@ Este proyecto no es una "alternativa gratis" para los mods ya existentes, asi qu
 * [RSDK VT (Una vercion personalizada del V4 por el Virtua Studio)](https://github.com/Sonic-Geared/RSDK-VT)
 * [RSDKv5 Ultimate](https://github.com/Rubberduckycooly/RSDKv5-Decompilation)
   
-# FAQ (Frequenly Asked Questions o en su traduccion Preguntas muy pedidas)
+# FAQ (Frequenly Asked Questions o Preguntas Y Respuestas)
 Puedes encontrar el FAQ [Aqui](./FAQ.md).
 
 # Muchas gracias:
@@ -54,4 +54,4 @@ Puedes encontrar el FAQ [Aqui](./FAQ.md).
 
 # Contacto:
 * [Retro Engine Modding Discord Server](https://dc.railgun.works/retroengine) (o REMS para acortar) Si quieres solucionar algun problema modificando el engine (o con modding de algun juego que use el motor RSDK), Mostrar tus trabajos o simplemente hablar con personas este es tu servidor (eso si es un server ingles asi que o te aprendes ingles o haces a la facil y usas traductor)
-[Retro Engine Fan Game Modding Server](https://discord.gg/DFMHk8XxrW) Lo mismo de arriba (incluyendo lo de el server ingles) solo que aqui puedes ver algunos proyectos hechos con GDT o con el Retro Engine!
+* [Retro Engine Fan Game Modding Server](https://discord.gg/DFMHk8XxrW) Lo mismo de arriba (incluyendo lo de el server ingles) solo que aqui puedes ver algunos proyectos hechos con GDT o con el Retro Engine!
