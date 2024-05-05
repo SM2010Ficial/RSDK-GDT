@@ -1,56 +1,57 @@
 ![header](header.png?raw=true)
 
-A Framework For Retro Engine for v4 VT and v5 Ulimate 
+Un motor de juego el cual usa el Retro Engine de base para asi usarse en v4 VT y v5 Ulimate 
 
-# **SUPPORT THE DEVELOPERS OF THE RETRO ENGINE**
-We do not own the Retro Engine in any way, shape or form, and this project would not have been possible had they not developed RSDK in the first place. Retro Engine is currently owned by [Evening Star](https://eveningstar.studio/); we highly urge you to follow & support their projects if you enjoyed this project of ours!
+# **APOYA A LOS DESARROLLADORES ORIGINALES**
+El Retro Engine NO nos pertenece en algun modo, y este proyecto no podria haber sido posible sin los desarrolladores del RSDK. El Retro Engine actualmente le pertenece a [Evening Star](https://eveningstar.studio/); Asi que porfavor apoya sus proyectos en tal caso que te haya gustado esto!
 
-## ***DO NOT USE THIS PROJECT AS A MEANS TO RUN SONIC 2 OR 1 MODS.***
-This Project is NOT a "free Replacement" for existing mods, dont tell us if your Sonic 2 palette swap doesnt work in GDT.
+## ***NO USES ESTE PROYECTO PARA CORRER MODS DE SONIC 1 O 2.***
+Este proyecto no es una "alternativa gratis" para los mods ya existentes, asi que PORFAVOR no nos molestes con cosas como que tu mod generico para cambiar paletas en sonic 2 no sirve en este motor.
 
-# Additional Features
-* The Extended Camera From Sonic CD
-* Peelout form CD
-* Drop dash from Sonic Origins
-* Roll Jump Lock removed
-* Pause Menu From CD
-* Main Menu From CD (work in progress)
+# Caracteristicas adicionales
+* La Camara Extendida de Sonic CD
+* El Super Peelout de CD
+* El Drop dash de Sonic Origins
+* Se elimino la limitacion al saltar
+* El menu de pausa De CD
+* El Menu de CD (WIP o por sus siglas en ingles Work In Progres osea que no esta terminado)
 * 3D Special Stage
 
-# Planned Features
-* Boss battle
-* DDZ Act 2
-* Badnik overhaul
-* Improved test level design
+# Caracteristicas a futuro
+* Batallas contra jefes
+* DDZ Acto 2
+* Mejoras en los badnicks
+* Mejor diseño de nivel para el nivel de pruebas
 
-# How to run
-* Get the RSDK Decomp (Check Compat Versions)
-* Install the Code (the Releases is Outdated)
-* please.. **ENABLE Txtscripts!**
-* In Settings.ini Set ``SkipMainMenu`` To True and ``DisableFocusPause`` to 1
-* Enable the ``for Test`` Mod
-* you're ready to go!
+# ¿Como ejecutar esto?
+* Obten alguna de las decompilaciones compatibles
+* Dale cick al boton verde que dice code y luego dale a donde dice Download zip (Decimos esto ya que la seccion de Releases podria estar desactualizada)
+* Porfavor.. **VE A SETTINGS.INI Y ESCRIBE EN Txtscripts= TRUE EN VEZ DE FALSE!**
+* Y de paso pon ``SkipMainMenu`` En True y ``DisableFocusPause`` a 1
+* Ahora activa el mod ``for Test``
+* Y ahi tienes todo listo para iniciar!
 
-# How to Setup For making Games?
-* theres a doc included in source for your needs, but we are planning to make a wiki for GDT soon. 
+# Como lo configuro para empezar a hacer juegos?
+* Hay un documento incluido en el codigo fuente por si lo nececitas, Aun asi estamos planeando crear una wiki de GDT. 
 
-# Compatible Versions
+# Verciones compatibles
 * [RSDKv4](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
-* [RSDK VT (Custom Version of V4 by Virtua Studio)](https://github.com/Sonic-Geared/RSDK-VT)
+* [RSDK VT (Una vercion personalizada del V4 por el Virtua Studio)](https://github.com/Sonic-Geared/RSDK-VT)
 * [RSDKv5 Ultimate](https://github.com/Rubberduckycooly/RSDKv5-Decompilation)
   
-# FAQ
-You can find the FAQ [here](./FAQ.md).
+# FAQ (Frequenly Asked Questions o en su traduccion Preguntas muy pedidas)
+Puedes encontrar el FAQ [Aqui](./FAQ.md).
 
-# Special Thanks
-* The Team Behind The [RSDK Decomp Project](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) Without them GDT wouldn't be possible.
-* [Twanvanb1](https://github.com/Twanvanb1) For bugfixes, Porting the Peelout and Helping make Metal Sonic in the game
-* [DonZombpepoGames](https://github.com/DonZombpepoGames) For extra help.
-* [zerothecat4564](https://github.com/zerothecat4564) For helping making templates for various files adding adding mobile Support.
-* [Klashicola (Hey thats me!)](https://github.com/youngerelk1) For Starting the project. 
-* Everyone in the [Retro Engine Modding Server](https://dc.railgun.works/retroengine) For Being Amazing!
-* **Sonic2001 (Burrotis Man)** For Allowing Us to Put GDTs Final Update on GameBanana!
+# Muchas gracias:
+* A todos los involucrados en el [Decompilado](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) Sin ustedes GDT no podria ser posible.
+* [Twanvanb1](https://github.com/Twanvanb1) Arreglo de bugs, Encargado de Portear el super Peelout y ayudar con Metal Sonic
+* [DonZombpepoGames](https://github.com/DonZombpepoGames) Ayuda Extra.
+* [zerothecat4564](https://github.com/zerothecat4564) Encargado de hacer plantillas para varios archivos y de añadir soporte a telefonos.
+* [Klashicola](https://github.com/youngerelk1) Creador del proyecto 
+* Todos en el [Retro Engine Modding Server](https://dc.railgun.works/retroengine) Por ser geniales!
+* **Sonic2001 (Burrotis Man)** Permitir publicar la final update en gamebanana!
+* [SM2010 (Hey soy yo)](https://github.com/SM2010Ficial) El que tradujo todo esto
 
-# Contact:
-Join the [Retro Engine Modding Discord Server](https://dc.railgun.works/retroengine) for tips, or learning retroscript, or just a cool place to show your work. 
-Join the [Retro Engine Fan Game Modding Server](https://discord.gg/DFMHk8XxrW) to Check out Projects Made with GDT and And with the Retro Engine!
+# Contacto:
+* [Retro Engine Modding Discord Server](https://dc.railgun.works/retroengine) (o REMS para acortar) Si quieres solucionar algun problema modificando el engine (o con modding de algun juego que use el motor RSDK), Mostrar tus trabajos o simplemente hablar con personas este es tu servidor (eso si es un server ingles asi que o te aprendes ingles o haces a la facil y usas traductor)
+[Retro Engine Fan Game Modding Server](https://discord.gg/DFMHk8XxrW) Lo mismo de arriba (incluyendo lo de el server ingles) solo que aqui puedes ver algunos proyectos hechos con GDT o con el Retro Engine!
